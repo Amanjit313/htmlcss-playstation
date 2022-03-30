@@ -2,7 +2,51 @@
   HEADER 
 */
 .sony-header{
-  
+  background-color: black;
+  height: 40px;
+}
+
+/* Sony */
+.sony-header img{
+  width: 7rem;
+}
+
+/* Menu */
+.menu{
+  height: 50px;
+  /* position: fixed;
+  background-color: white;
+  width: 100%;
+  top: 0;
+  left: 0; */
+}
+
+/* Menu-Left */
+.menu-left .menu-options{
+  margin-right: 30px;
+}
+
+.menu-options img{
+  width: .7rem;
+  margin-left: 8px;
+  margin-top: 4px;
+}
+
+/* Menu-Right */
+.menu-right .menu-options{
+  margin-right: 22px;
+}
+
+.lens{
+  width: 1.5rem;
+  margin-left: 20px;
+}
+
+/* Hamburger */
+.hamburger .fa-bars{
+  border: 1px solid lightgray;
+  padding: 8px 15px;
+  border-radius: 5px;
 }
 
 /* Jumbotron */
