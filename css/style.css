@@ -74,7 +74,7 @@
 }
 
 .jumbotron h2{
-  font-size: 3rem;
+  font-size: 2.5rem;
   margin-bottom: 20px;
 }
 
@@ -101,4 +101,68 @@
 
 /* 
   /HEADER 
+*/
+
+/* 
+  MAIN 
+*/
+
+/* PS-5 */
+.ps5{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.ps5 h2{
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.ps5 p{
+  font-size: 1.2rem;
+  color: #A5A5A5;
+}
+
+/* PS-5 Mini-Title */
+.ps-5-mini-title h5{
+  text-transform: uppercase;
+  font-size: .8rem;
+  color: #2D64E6;
+}
+
+/* PS-5 Information */
+.ps-5-information{
+  margin-top: 75px;
+}
+
+.more-info{
+  background-color: #2D64E6;
+}
+
+.ps-5-information img{
+  width: 100%;
+  height: 100%;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+/* PS-5 Gadgets */
+.ps-5-gadgets img{
+  width: 8rem;
+}
+
+.first-gadget{
+  border-bottom: 2px solid #2D64E6;
+}
+
+.ps-5-singol-gadget{
+  opacity: 60%;
+}
+
+.ps-5-singol-gadget:hover{
+  opacity: 100%;
+}
+
+/* 
+  /MAIN 
 */
