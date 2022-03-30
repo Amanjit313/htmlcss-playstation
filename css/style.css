@@ -326,6 +326,23 @@
   color: black;
 }
 
+/* Social */
+.social-title{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.social img{
+  height: 100%;
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.social img:hover{
+  cursor: pointer;
+  opacity: 75%;
+}
+
 /* 
   /MAIN 
 */
