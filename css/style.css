@@ -145,6 +145,10 @@
   margin-bottom: 50px;
 }
 
+.ps-4-info-container{
+  margin-bottom: 80px;
+}
+
 /* PS-5 Gadgets */
 .ps-5-gadgets img{
   width: 8rem;
@@ -190,6 +194,8 @@
 /* New Releases */
 .new-releases{
   margin-bottom: 60px;
+  background-color: #1F1F1F;
+  color: white;
 }
 
 /* New Releases Title */
@@ -198,6 +204,10 @@
 }
 
 /* New Releases Cards */
+.new-releases-cards{
+  padding-bottom: 50px;
+}
+
 .new-releases-cards img{
   width: 100%;
   height: 100%;
@@ -207,6 +217,113 @@
 
 .new-releases-cards span{
   font-size: .9rem;
+}
+
+/* PS-4 */
+
+/* PS-4 Mini-Tile */
+.ps4 h2{
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.ps4 p{
+  font-size: 1.2rem;
+  color: #A5A5A5;
+}
+
+/* PS-4 Information */
+.ps4-information{
+  margin-bottom: 50px;
+}
+
+.ps4-information img{
+  height: 55%;
+  width: 100%;
+}
+
+/* PS-4 Plus */
+.ps4-plus{
+  background-color: #BEBCBB;
+}
+
+.ps-plus-logo{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.ps-plus-logo img{
+  width: 20rem;
+}
+
+.ps-plus-logo p{
+  font-size: .9rem;
+  color: #272727;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.ps-plus-button{
+  background-color: #D9DADC;
+  color: #2D64E6;
+}
+
+.ps-plus-img img{
+  height: 100%;
+  width: 100%;
+}
+
+/* Playstore */
+.playstore-title{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+/* PLaystore Mini-Title */
+.playstore h2{
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.playstore p{
+  font-size: 1.2rem;
+  color: #A5A5A5;
+}
+
+/* Playstore Options */
+.playstore-options img{
+  height: 100%;
+  width: 100%;
+}
+
+.playstore-options-img{
+  margin-bottom: 50px;
+}
+
+/* Playstore Now */
+.playstore-now{
+  background-color: #161C3B;
+}
+
+.ps-now-logo{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.ps-now-logo img{
+  width: 20rem;
+}
+
+.ps-now-logo p{
+  font-size: .9rem;
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.ps-now-button{
+  background-color: white;
+  color: black;
 }
 
 /* 
