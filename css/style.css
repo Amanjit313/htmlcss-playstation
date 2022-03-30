@@ -79,7 +79,6 @@
 }
 
 .buy-now{
-  width: 120px;
   margin-bottom: 20px;
   background-color: #CD3D0F;
 }
@@ -161,6 +160,53 @@
 
 .ps-5-singol-gadget:hover{
   opacity: 100%;
+}
+
+/* New Games */
+
+/* Game */
+.game{
+  background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 700px;
+  color: white;
+}
+
+.game-text img{
+  width: 15rem;
+  margin-bottom: 20px;
+}
+
+.game-text h2{
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.game-text p{
+  margin-bottom: 30px;
+}
+
+/* New Releases */
+.new-releases{
+  margin-bottom: 60px;
+}
+
+/* New Releases Title */
+.new-releases-title{
+  margin-top: 20px;
+}
+
+/* New Releases Cards */
+.new-releases-cards img{
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+  margin-top: 20px;
+}
+
+.new-releases-cards span{
+  font-size: .9rem;
 }
 
 /* 
