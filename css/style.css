@@ -39,14 +39,14 @@
 
 .lens{
   width: 1.5rem;
-  margin-left: 20px;
+  margin-left: 12px;
 }
 
 .accedi{
   background-color: #363636;
   color: white;
   border-radius: 20px;
-  padding: 7.5px 2px;
+  padding: 8px 2px;
   cursor: pointer;
 }
 
