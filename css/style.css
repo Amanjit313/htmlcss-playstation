@@ -1,6 +1,13 @@
 /* 
   HEADER 
 */
+.menu-fixed{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
 .sony-header{
   background-color: black;
   height: 40px;
@@ -14,11 +21,7 @@
 /* Menu */
 .menu{
   height: 50px;
-  /* position: fixed;
   background-color: white;
-  width: 100%;
-  top: 0;
-  left: 0; */
 }
 
 .menu-options:hover{
@@ -93,6 +96,10 @@
 }
 
 /* Jumbotron Options */
+.jumbotron-options-container{
+  width: 100%;
+}
+
 .jumbotron-options img{
   width: 100%;
   height: 100%;
@@ -103,7 +110,7 @@
 }
 
 .jumbotron-options img:hover{
-  margin-top: 20px;
+  transform: translate(0px, -20px);
 }
 
 .j-options-selector-fixed{
