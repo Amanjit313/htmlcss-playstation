@@ -38,3 +38,17 @@
   background-color: #2D64E6;
 }
 
+/* Nav Rules */
+ul{
+  list-style: none;
+}
+
+nav a{
+  text-decoration: none;
+  color: white;
+}
+
+nav a:hover{
+  text-decoration: underline;
+  color: red;
+}

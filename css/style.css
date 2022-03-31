@@ -131,7 +131,7 @@
 
 /* PS-5 Information */
 .ps-5-information{
-  margin-top: 75px;
+  margin-top: 30px;
 }
 
 .more-info{
@@ -200,7 +200,7 @@
 
 /* New Releases Title */
 .new-releases-title{
-  margin-top: 20px;
+  padding-top: 20px;
 }
 
 /* New Releases Cards */
@@ -213,6 +213,11 @@
   height: 100%;
   border-radius: 20px;
   margin-top: 20px;
+}
+
+.new-releases-cards img:hover{
+  cursor: pointer;
+  opacity: 75%;
 }
 
 .new-releases-cards span{
@@ -296,6 +301,11 @@
   width: 100%;
 }
 
+.playstore-options img:hover{
+  cursor: pointer;
+  opacity: 75%;
+}
+
 .playstore-options-img{
   margin-bottom: 50px;
 }
@@ -345,4 +355,69 @@
 
 /* 
   /MAIN 
+*/
+
+/* 
+  FOOTER 
+*/
+footer{
+  background-color: #00439C;
+  color: white;
+}
+
+/* Final Informations */
+
+/* Logo PS */
+.logo-f-ps{
+  margin-top: 70px;
+}
+
+.logo-f-ps img{
+  width: 6rem;
+  margin-bottom: 30px;
+}
+
+.logo-f-ps i{
+  font-size: 1.1rem;
+}
+
+.logo-f-ps span{
+  font-size: .9rem;
+  
+}
+
+/* Links */
+.link-f-ps{
+  margin-top: 70px;
+}
+
+.link-f-ps li{
+  margin-bottom: 10px;
+}
+
+/* Copyright */
+.logo-f-sie{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.logo-f-sie img{
+  width: 9rem;
+  margin-bottom: 10px;
+}
+
+.logo-f-sie p{
+  font-size: .9rem;
+}
+
+.f-more-info{
+  text-decoration: underline;
+}
+
+.f-more-info:hover{
+  color: red;
+}
+
+/* 
+  /FOOTER 
 */
