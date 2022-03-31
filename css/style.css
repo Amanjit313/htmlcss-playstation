@@ -6,6 +6,7 @@
   top: 0;
   left: 0;
   width: 100%;
+  z-index: 999;
 }
 
 .sony-header{
@@ -97,8 +98,8 @@
 }
 
 /* Jumbotron Options */
-.jumbotron-options-container{
-  width: 100%;
+.jumbotron-options{
+  overflow: hidden;
 }
 
 .jumbotron-options img{
