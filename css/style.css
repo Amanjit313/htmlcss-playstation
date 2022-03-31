@@ -31,10 +31,10 @@
   margin-right: 30px;
 }
 
-.menu-options img{
-  width: .7rem;
+.menu-options i{
+  font-size: .7rem;
   margin-left: 8px;
-  margin-top: 4px;
+  margin-top: 7px;
 }
 
 /* Menu-Right */
