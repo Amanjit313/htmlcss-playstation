@@ -30,8 +30,28 @@
 .button{
   color: white;
   border-radius: 20px;
-  padding: 8px 8px;
+  padding: 9px 2px;
+  cursor: pointer;
 }
+
+.button-hover{
+  padding: 5px 8px;
+  border-radius: 20px;
+  border: 2px solid transparent;
+}
+
+.b-black:hover{
+  border: 2px solid black;
+}
+
+.b-white:hover{
+  border: 2px solid white;
+}
+
+.b-dark-blu:hover{
+  border: 2px solid #161C3B;
+}
+
 
 /* Colors */
 .blu{

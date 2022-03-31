@@ -44,6 +44,10 @@
 
 .accedi{
   background-color: #363636;
+  color: white;
+  border-radius: 20px;
+  padding: 7.5px 2px;
+  cursor: pointer;
 }
 
 /* Hamburger */
@@ -271,6 +275,11 @@
 .ps-plus-button{
   background-color: #D9DADC;
   color: #2D64E6;
+  border: 2px solid transparent;
+}
+
+.ps-plus-button:hover{
+  border: 2px solid rgba(128, 128, 128, .2);
 }
 
 .ps-plus-img img{
